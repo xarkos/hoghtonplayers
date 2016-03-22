@@ -1,0 +1,135 @@
+body {
+  padding-top: 60px;  
+  margin-top: 0px;
+}
+
+
+.justify {
+    text-align: justify;
+}
+
+.padder {
+    height: 50px;
+    text-align: center;
+}
+
+.footer {
+    font-style: italic;font-size: 9pt;
+    text-align: center;
+    
+}
+
+img.floatright {float: right;
+            margin: 5px; 
+            border-left: 1px solid #fff; 
+             }
+
+.question {
+    padding-top: 60px;
+}
+
+ .jumbotron-extra {
+    background-color: red;
+}
+
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 50pt;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 30pt;
+}
+
+h3 {
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 25px;
+    padding-bottom: 10px;
+}
+
+h4 {
+    font-family: 'Lobster', cursive;
+    font-size: 20pt;
+    padding-bottom: 10px;
+}
+
+h5 {
+    font-family: 'Lobster', cursive;
+    font-size: 15pt;
+    padding-bottom: 10px;
+}
+
+
+h6 {
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+.divider-footer {
+    height: 75px;
+    width: 250px;
+}
+
+.divider-rightcolumn {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gands {
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centered {
+    margin-top: 20px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.flipped {
+        -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
+
+.announcement {
+    
+    width: 90%;
+    margin-top: 20px;
+    
+}
+
+.archiveimage {
+ 
+    width: 100%;
+
+}
+
+.slideshow {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.casttable {
+    width: 90%;
+     margin-top: 20px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
